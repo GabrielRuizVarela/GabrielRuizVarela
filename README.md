@@ -1,6 +1,6 @@
 ### Gabriel Ruiz Varela
 
-Building tools for **nutrition**, **training optimization**, and **civic transparency**.
+Building tools for **nutrition** and **civic transparency**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-080808?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHRleHQgeD0iMTYiIHk9IjI0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIyNCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNlOGU4ZTgiPkc8L3RleHQ+PC9zdmc+&logoColor=white)](https://gabrielruizvarela.github.io/portfolio/)
 
@@ -8,18 +8,15 @@ Building tools for **nutrition**, **training optimization**, and **civic transpa
 
 #### Lutie &nbsp;`commercial` `closed-source`
 
-Full-stack nutrition and training platform — Spanish-first, mobile-first, offline-capable PWA.
+Evidence-based **nutrition planning** — Spanish-first, mobile-first, offline-capable PWA.
 
-**[lutie.app](https://lutie.app)** — Evidence-based nutrition planning.
-<br>**LutieGym** — Training program optimization.
+**AI & MCP** — AI-powered meal planning assistant with MCP tool integration. Caloric phase tracking (cutting/bulking/maintaining), macro optimization, and personalized meal plan generation via GRASP constraint-optimization solver.
 
-**AI & MCP** — Gemini-powered assistant with 9 MCP tools: program generation, exercise queries, volume adjustment, progress analysis, fatigue detection, deload recommendations, and cross-product nutrition integration.
+**Features** — Food composition database, daily macro tracking, caloric phase management with deficit/surplus calculations, AI-driven recipe substitution, and freemium billing with subscription gating.
 
-**Training Engine** — GRASP constraint-optimization solver that generates personalized programs maximizing stimulus-to-fatigue ratio. 800+ exercises with proprietary biomechanical enrichments (EMG scores, joint stress, fatigue cost). Auto-regulation, mesocycle periodization, and progression tracking.
+**Infrastructure** — Offline-first with IndexedDB + background sync. Push notifications. Clean Architecture + DDD.
 
-**Infrastructure** — Offline-first with IndexedDB + background sync. Push notifications. Freemium billing with feature gating. Clean Architecture + DDD.
-
-`Next.js` `Supabase` `Gemini` `MCP` `Zustand` `Tailwind` `GRASP Solver`
+`Next.js` `Supabase` `Gemini` `MCP` `Zustand` `Tailwind`
 
 **[lutie.app →](https://lutie.app)**
 
