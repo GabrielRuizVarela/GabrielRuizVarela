@@ -18,6 +18,8 @@ Evidence-based **nutrition planning** — Spanish-first, mobile-first, offline-c
 
 `Next.js` `Supabase` `Gemini` `MCP` `Zustand` `Tailwind`
 
+[![Lutie](lutie.png)](https://lutie.app)
+
 **[lutie.app →](https://lutie.app)**
 
 ---
@@ -36,6 +38,8 @@ Civic knowledge platform that transforms **fragmented public records** into navi
 | VI | **Global Nuclear Risk** | 31 sources · 9 states · *in dev* |
 
 `TypeScript` `Neo4j` `Knowledge Graphs` `NLP`
+
+[![Office of Accountability](office.png)](https://office-of-accountability.org/)
 
 **[office-of-accountability.org →](https://office-of-accountability.org/)** · **[GitHub →](https://github.com/GabrielRuizVarela/office-of-accountability)**
 
