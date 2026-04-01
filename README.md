@@ -37,7 +37,7 @@ Civic knowledge platform that transforms **fragmented public records** into navi
 
 `TypeScript` `Neo4j` `Knowledge Graphs` `NLP`
 
-**[View on GitHub →](https://github.com/GabrielRuizVarela/office-of-accountability)**
+**[office-of-accountability.org →](https://office-of-accountability.org/)** · **[GitHub →](https://github.com/GabrielRuizVarela/office-of-accountability)**
 
 ---
 
