@@ -1,6 +1,6 @@
 ### Gabriel Ruiz Varela
 
-Building tools for **nutrition** and **civic transparency**.
+Building tools for **nutrition**, **civic transparency** and **public energy data**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-080808?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHRleHQgeD0iMTYiIHk9IjI0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIyNCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNlOGU4ZTgiPkc8L3RleHQ+PC9zdmc+&logoColor=white)](https://gabrielruizvarela.github.io/portfolio/)
 
@@ -21,6 +21,24 @@ Evidence-based **nutrition planning** — Spanish-first, mobile-first, offline-c
 [![Lutie](lutie.png)](https://lutie.app)
 
 **[lutie.app →](https://lutie.app)**
+
+---
+
+#### Vaca Muerta en datos &nbsp;`data engineering` `public data`
+
+Independent study of Argentina's **Vaca Muerta** shale, built only on the energy secretariat's **monthly public data**: when a new well is fractured, what happens to the producing wells next to it?
+
+**Pipeline** — Hash-versioned ingestion, a DuckDB warehouse from typed staging tables to well, well-month and event facts, table lineage, and blocking quality checks that stop a build before anything is published.
+
+**Method** — Event study over 2,094 fracture events against control wells 2–5 km away, placebo dates and permutations, decision rules committed before each run, and the same test rerun in two US basins. Every figure in the text is checked against the warehouse; 1,200+ automated tests.
+
+**Read it** — Front page and operator report in Spanish, a month-by-month 3D replay of the basin in WebGL, and a natural-language question agent with typed read-only tools, served over MCP.
+
+`Python` `DuckDB` `SQL` `MCP` `WebGL` `Cloudflare`
+
+[![Vaca Muerta en datos](vaca-muerta.png)](https://vaca-muerta-en-datos.gabrielruizvarela.workers.dev)
+
+**[vaca-muerta-en-datos →](https://vaca-muerta-en-datos.gabrielruizvarela.workers.dev)**
 
 ---
 
