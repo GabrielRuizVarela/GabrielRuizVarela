@@ -54,7 +54,7 @@ Civic knowledge platform that transforms **fragmented public records** into navi
 | II | **Caso Epstein:** trafficking network | 7,276 entities · 374 actors |
 | III | **Finanzas Políticas Argentinas** | 329 legislators · 7 sources |
 | IV | **Obras Públicas & Caso Adorni** | 87,725 contracts · 18 sectors |
-| V | **Caso Dictadura 1976–1983** | 9,415 victims · 774 centers |
+| V | **Caso Dictadura 1976 to 1983** | 9,415 victims · 774 centers |
 | VI | **Global Nuclear Risk** | 31 sources · 9 states · *in dev* |
 
 `TypeScript` `Neo4j` `Knowledge Graphs` `NLP`
